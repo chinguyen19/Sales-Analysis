@@ -24,8 +24,7 @@ Sales cycles fluctuate between **$24M and $26M** per month, showing **clear peak
 - Despite recurring January troughs, **total January revenue (2014–2017)** remains **above the average of other months**, suggesting strong baseline demand.  
 - **February** consistently records the **lowest total revenue (<$92M over 3 years)**, confirming it as a true off-peak period.
 
-**Space for Graph:**  
-![Insert Monthly Sales Trend Graph Here](#)
+<img width="1106" height="655" alt="image" src="https://github.com/chinguyen19/Sales-Analysis/blob/78792f92ac0e83816e533739f9880ba4ffcf8c50/seasonal-trends_1.png" />
 
 ---
 
@@ -33,8 +32,7 @@ Sales cycles fluctuate between **$24M and $26M** per month, showing **clear peak
 - **Observation:** While January typically dips, total revenue over multiple years shows strong baseline performance.  
 - **Seasonality:** Sales start to rebound in spring and maintain consistent high levels from August through December, reflecting predictable cyclical behavior.  
 
-**Space for Graph:**  
-![Insert Annual Revenue Comparison Graph Here](#)
+<img width="1106" height="655" alt="image" src="https://github.com/chinguyen19/Sales-Analysis/blob/78792f92ac0e83816e533739f9880ba4ffcf8c50/seasonal-trends.png" />
 
 ---
 
@@ -43,8 +41,7 @@ Sales cycles fluctuate between **$24M and $26M** per month, showing **clear peak
 - **Mid-tier Products:** Revenue ranges from **$68M to $75M**, showing steady but moderate contribution.
 - **Bottom-tier Products:** Products below **$60M**, which may require review or promotion strategies.
 
-**Space for Graph:**  
-![Insert Product Revenue Comparison Graph Here](#)
+<img width="1106" height="655" alt="image" src="https://github.com/chinguyen19/Sales-Analysis/blob/78792f92ac0e83816e533739f9880ba4ffcf8c50/product-performance.png" />
 
 ---
 
@@ -53,8 +50,7 @@ Sales cycles fluctuate between **$24M and $26M** per month, showing **clear peak
 - **Exports:** Around **15% (~$180.6M)**, showing a smaller but significant contribution from international markets.
 - **Implication:** Business strategy should balance domestic bulk channels with potential export growth.
 
-**Space for Graph:**  
-![Insert Sales Channel Distribution Graph Here](#)
+<img width="1106" height="655" alt="image" src="https://github.com/chinguyen19/Sales-Analysis/blob/78792f92ac0e83816e533739f9880ba4ffcf8c50/sales-channel.png" />
 
 ---
 
@@ -64,8 +60,7 @@ Sales cycles fluctuate between **$24M and $26M** per month, showing **clear peak
 - **Northeast:** ~$210M (~20%), indicating opportunities for growth and targeted investment.
 - **Implication:** Regional focus and marketing should prioritize growth in Northeast while maintaining leadership in West.
 
-**Space for Graph:**  
-![Insert Regional Revenue Map or Bar Chart Here](#)
+<img width="1106" height="655" alt="image" src="https://github.com/chinguyen19/Sales-Analysis/blob/78792f92ac0e83816e533739f9880ba4ffcf8c50/regional-performance.png" />
 
 ---
 
@@ -75,19 +70,17 @@ Sales cycles fluctuate between **$24M and $26M** per month, showing **clear peak
 - **Lower-tier States:** Example – New Jersey ($35M), highlighting uneven market penetration.
 - **Implication:** Sales strategies should be tailored to state performance levels.
 
-**Space for Graph:**  
-![Insert State-Level Revenue Graph Here](#)
+<img width="1106" height="655" alt="image" src="https://github.com/chinguyen19/Sales-Analysis/blob/78792f92ac0e83816e533739f9880ba4ffcf8c50/state.png" />
 
 ---
 
 ### 7. Order Value Distribution
 - **Observation:** Order values are right-skewed.
-  - Most orders cluster between **$20K and $50K**.
+  - Most orders cluster between **$20K and $80K**.
   - Long tail extends to **$400K**, but large orders are rare (less than 100).
 - **Implication:** Focus on optimizing mid-sized orders while monitoring high-value outliers for special handling or opportunities.
 
-**Space for Graph:**  
-![Insert Order Value Distribution Graph Here](#)
+<img width="1106" height="655" alt="image" src="https://github.com/chinguyen19/Sales-Analysis/blob/78792f92ac0e83816e533739f9880ba4ffcf8c50/aov.png" />
 
 
 # Key Takeaways
