@@ -13,19 +13,82 @@ This project use the Candid Co's 2014-2018 sales data to identify key revenue an
 
 # Key Insights
 
-- **Sales Volume:** Total analyzed revenue ≈ **$1.2B (2014–2018)**  
-- **Seasonality:** Clear peaks in **March** and **August–December**, troughs each **January** and **February**  
-- **Outlier:** A sharp **revenue drop in early 2017** suggests potential market disruption or mistimed promotions  
-- **Channels:** **Wholesale** accounts for **~54% ($668.2M)**; **Exports** for **~15% ($180.6M)** — heavy reliance on domestic bulk channels  
-- **Regional Breakdown:**  
-  - **West:** ~$360M (~35%) — dominant region  
-  - **South & Midwest:** each >$320M (~32%) — strong, consistent demand  
-  - **Northeast:** ~$210M (~20%) — potential for growth  
-- **Products:**  
-  - *Top-tier:* Product 26 & 25 > $100M (3 years)  
-  - *Mid-tier:* $68M–$75M  
-  - *Lower-tier:* < $60M  
-- **Order Distribution:** Right-skewed with a mode around **$50K**; long tail of large transactions up to **$400K**, but <100 orders above that value  
+# Insights and Analysis
+
+### 1. Seasonal Trends
+
+Sales cycles fluctuate between **$24M and $26M** per month, showing **clear peaks in March and August–December**, and troughs in **January**.
+
+- The **first peak (March)** likely reflects seasonal demand recovery post-winter and early-year promotional campaigns.  
+- The **second peak (Aug–Dec)** aligns with back-to-school and holiday spending, representing the most profitable period annually.  
+- Despite recurring January troughs, **total January revenue (2014–2017)** remains **above the average of other months**, suggesting strong baseline demand.  
+- **February** consistently records the **lowest total revenue (<$92M over 3 years)**, confirming it as a true off-peak period.
+
+**Space for Graph:**  
+![Insert Monthly Sales Trend Graph Here](#)
+
+---
+
+### 2. Annual and Aggregate Revenue Patterns
+- **Observation:** While January typically dips, total revenue over multiple years shows strong baseline performance.  
+- **Seasonality:** Sales start to rebound in spring and maintain consistent high levels from August through December, reflecting predictable cyclical behavior.  
+
+**Space for Graph:**  
+![Insert Annual Revenue Comparison Graph Here](#)
+
+---
+
+### 3. Product Performance
+- **Top-tier Products:** Product 25 and Product 26 generate over **$100M** across three years, indicating strong market demand.
+- **Mid-tier Products:** Revenue ranges from **$68M to $75M**, showing steady but moderate contribution.
+- **Bottom-tier Products:** Products below **$60M**, which may require review or promotion strategies.
+
+**Space for Graph:**  
+![Insert Product Revenue Comparison Graph Here](#)
+
+---
+
+### 4. Sales Channels
+- **Wholesale:** Accounts for **54% of total sales** (~$668.2M), indicating reliance on domestic bulk distribution.
+- **Exports:** Around **15% (~$180.6M)**, showing a smaller but significant contribution from international markets.
+- **Implication:** Business strategy should balance domestic bulk channels with potential export growth.
+
+**Space for Graph:**  
+![Insert Sales Channel Distribution Graph Here](#)
+
+---
+
+### 5. Regional Performance
+- **West:** ~$360M (~35%) – market leader.
+- **South & Midwest:** Each contributes over ~$320M (~32%), showing strong and consistent central region demand.
+- **Northeast:** ~$210M (~20%), indicating opportunities for growth and targeted investment.
+- **Implication:** Regional focus and marketing should prioritize growth in Northeast while maintaining leadership in West.
+
+**Space for Graph:**  
+![Insert Regional Revenue Map or Bar Chart Here](#)
+
+---
+
+### 6. State-Level Performance
+- **Top-tier States:** Revenue above $228.8M.
+- **Mid-tier States:** Example – Texas ($55.5M), consistent but trailing top states.
+- **Lower-tier States:** Example – New Jersey ($35M), highlighting uneven market penetration.
+- **Implication:** Sales strategies should be tailored to state performance levels.
+
+**Space for Graph:**  
+![Insert State-Level Revenue Graph Here](#)
+
+---
+
+### 7. Order Value Distribution
+- **Observation:** Order values are right-skewed.
+  - Most orders cluster between **$20K and $50K**.
+  - Long tail extends to **$400K**, but large orders are rare (less than 100).
+- **Implication:** Focus on optimizing mid-sized orders while monitoring high-value outliers for special handling or opportunities.
+
+**Space for Graph:**  
+![Insert Order Value Distribution Graph Here](#)
+
 
 # Key Takeaways
 
