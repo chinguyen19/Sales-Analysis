@@ -100,6 +100,7 @@ The **Regional Sales Dashboard** enables users to:
 - Support **strategic pricing and promotion planning**
 
 > **Note:** The dashboard focuses on *regional* performance aggregation, not individual product or customer details.
+<img width="1106" height="655" alt="image" src="https://github.com/chinguyen19/Sales-Analysis/blob/16f70bd7ae20a6a7c8496c36e09ecf9bab266cd1/Screenshot%202025-10-01%20150520.png"/>
 
 
 # Tools & Technologies
